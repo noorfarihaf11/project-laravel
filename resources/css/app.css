@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#smallPieChart {
+    width: 200px !important; /* Lebar yang diinginkan */
+    height: 200px !important; /* Tinggi yang diinginkan */
+}
